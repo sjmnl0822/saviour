@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sjmnl0822/saviour/main/NewMainScript.lua", true))()
